@@ -1,0 +1,27 @@
+{
+  "name": "bamazon-assignment",
+  "version": "1.0.0",
+  "description": "Week 12 Homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcunc98/bamazon.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcunc98/bamazon/issues"
+  },
+  "homepage": "https://github.com/marcunc98/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
